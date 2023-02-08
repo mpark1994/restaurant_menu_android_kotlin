@@ -1,6 +1,8 @@
 # Restaurant Menu Application
 
-#### Video Demo TODO
+#### Video Demo https://youtu.be/JRkwmRgHay4
+
+![image](https://user-images.githubusercontent.com/109865132/217551052-d1d70518-6308-4ac0-a215-374ff46d6330.png)
 
 ## Description:
 This is my Restaurant Menu App created using Android Studio, for the Meta Capstone Project. Using the Jetpack Compose library, this project has a mini full-stack framework that handles the frontend & styling with Compose, as well as the backend with a SQLite database and other configurations.
