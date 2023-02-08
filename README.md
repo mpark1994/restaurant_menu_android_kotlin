@@ -23,4 +23,4 @@ There is a navigation library used that is passed through all the navigatable pa
 
 #### Credits & Citations
 This application contains static files provided by Meta from: <br>
-https://raw.githubusercontent.com/Meta-Mobile-Developer-PC/Working-With-Data-API/main/menu.json
+https://github.com/Meta-Mobile-Developer-PC/Working-With-Data-API/
